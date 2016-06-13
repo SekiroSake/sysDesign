@@ -1,3 +1,3 @@
 More Sys design:
 
-**http://www.bittiger.io/channels
+* http://www.bittiger.io/channels
